@@ -83,28 +83,7 @@ int main(void) {
 
 ---
 
-## 📸 Demo
-Add your photos inside the `Images` folder and reference them like this:
-
-```markdown
 ![Running Stopwatch](Images/blackboard_stopwatch.jpg)
-![7-Segment Close-up](Images/seg_close.jpg)
-```
-
----
-
-## 📂 Suggested Repository Structure
-```
-seven-seg-stopwatch/
-├─ README.md
-├─ src/
-│  └─ stopwatch.c
-├─ Images/
-│  ├─ blackboard_stopwatch.jpg
-│  └─ seg_close.jpg
-└─ Docs/
-   └─ lab_report.pdf
-```
 
 ---
 
